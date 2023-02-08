@@ -4,7 +4,7 @@
 
 <h1>Ping Dashboard</h1>
 
-**Ping Dashboard is not only an explorer but also a wallet and more ... 🛠**
+**Cryptodropsid Dashboard is not only an explorer but also a wallet and more ... 🛠**
 
 [![version](https://img.shields.io/github/tag/ping-pub/explorer.svg)](https://github.com/ping-pub/explorer/releases/latest)
 [![GitHub](https://img.shields.io/github/license/ping-pub/explorer.svg)](https://github.com/ping-pub/explorer/blob/master/LICENSE)
